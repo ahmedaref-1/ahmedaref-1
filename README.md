@@ -5,7 +5,7 @@
 
 - 🎓 **Senior Computer and Systems Engineering student at Ain Shams Unversity.**
 
-- 🌱 **Learning more about Microcontrollers , Embedded Sofware , Embedded Linux, Autmotive Embedded Software and AUTOSAR**
+- 🌱 **Learning more about Microcontrollers , Embedded Sofware Development, Autmotive Embedded Software and AUTOSAR**
 
 - 💼 **AUTOSAR and Embedded Systems Trainee at Siemens EDA.**
 
