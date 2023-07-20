@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**ahmedaref-1/ahmedaref-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there! I'm Ahmed Aref.
+Github
+
+👨🏻‍💻  About Me
+I'm a computer and software systems engineering student who is passionate about Embedded Software Development and Testing.
+
+🎓   I’m currently a senior student at Ain Shams Unversity.
+💼   Working as an Embedded trainee at Siemens EDA.
+🌱   Learning more about Microcontrollers , Embedded Sofware , Embedded Linux and AUTOSAR.
+📫   How to reach me: Linkedin Gmail
+🛠️   Languages and Tools:
+💻   C C++ Java Python
+⚙️   Git LinuxUbuntu GitHub 
+🔧   VisualStudioCode Eclipse KeilMicroVision MicroChipStudio STM32CubeIDE ProteusSimulation
+
+
+✨ Visitors
+ahmedaref-1
+
+📊 Profile stats
+ahmedaref-1's github stats
+
