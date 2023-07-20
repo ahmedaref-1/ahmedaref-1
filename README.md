@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaref-1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaref-1" /> </p>
 
-- 🎓 **Senior student at Ain Shams Unversity.**
+- 🎓 **Senior Computer and Systems Engineering student at Ain Shams Unversity.**
 
 - 🌱 **Learning more about Microcontrollers , Embedded Sofware , Embedded Linux, Autmotive Embedded Software and AUTOSAR**
 
