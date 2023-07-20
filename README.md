@@ -9,7 +9,7 @@
 
 - 💼 **AUTOSAR and Embedded Systems Trainee at Siemens EDA.**
 
-- 📫 How to reach me **ahmed.aref.omaira@gmail.com**
+- 📫 **ahmed.aref.omaira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
