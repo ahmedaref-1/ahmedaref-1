@@ -10,11 +10,3 @@ I'm a computer and software systems engineering student who is passionate about 
 💻   C C++ Java Python
 ⚙️   Git LinuxUbuntu GitHub 
 🔧   VisualStudioCode Eclipse KeilMicroVision MicroChipStudio STM32CubeIDE ProteusSimulation
-
-
-✨ Visitors
-ahmedaref-1
-
-📊 Profile stats
-ahmedaref-1's github stats
-
