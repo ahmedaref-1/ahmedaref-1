@@ -1,9 +1,4 @@
-
-
-
 Hey there! I'm Ahmed Aref.
-Github
-
 👨🏻‍💻  About Me
 I'm a computer and software systems engineering student who is passionate about Embedded Software Development and Testing.
 
