@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedaref-1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedaref-1" /> </p>
 
-- 🎓 **Senior Computer and Systems Engineering student at Ain Shams Unversity.**
+- 🎓 **Computer and Software Systems Engineering Graduate from Ain Shams Unversity.**
 
 - 🌱 **Learning more about Microcontrollers, Embedded Sofware Development and Testing, ARM Micro-controllers Archietecture, Real Time Operating Systems, Autmotive Embedded Software and AUTOSAR**
 
-- 💼 **AUTOSAR and Embedded Systems Trainee at Siemens EDA.**
+- 💼 **Quality Assurance and Software Process Engineerin Intern & AUTOSAR Classic Platform Trainee at SEITech Solutions GmbH.**
 
 - 📫 **ahmed.aref.omaira@gmail.com**
 
